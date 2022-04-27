@@ -17,6 +17,5 @@ namespace Runner
         public const string ENEMY_BULLET = "EnemyBullet";
         public const string POWER_UP_DOUBLEJUMP = "DoubleJump";
 
-
     }
 }

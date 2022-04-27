@@ -22,7 +22,6 @@ namespace Runner
         public void TapHandler(object sender, System.EventArgs e)
         {
             playerController.Jump();
-
         }
 
     }

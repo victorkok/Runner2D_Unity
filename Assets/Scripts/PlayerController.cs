@@ -14,7 +14,7 @@ namespace Runner
         private bool candoublejump;
         private bool powerupActive;
         private float powerupLengthCounter;
-
+        public PauseMenu pauseMenu;
         void Awake()
         {
             PlayerSprite = GetComponent<Animator>();
@@ -24,6 +24,7 @@ namespace Runner
         public void Jump()
 
         {
+
             if (noChao == true)
             {
                 rb.velocity += jumpSpeed * Vector2.up;
@@ -45,7 +46,6 @@ namespace Runner
 
 
         }
-
 
         void OnTriggerEnter2D(Collider2D other)
         {

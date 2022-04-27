@@ -4,7 +4,7 @@ C:/Users/Victor/Desktop/Codes/Runner2D VK Sem TouchScript/GameBuildExe/TesteGame
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
-2ca766fc413b6df119d33fcf67945076 Assembly-CSharp.dll:Runner.PlayerController
+435b727d1f27f6ab8a9c2dbe39e42fb5 Assembly-CSharp.dll:Runner.PlayerController
 4da00d37d646843dd0828d4fe0fd122e Assembly-CSharp.dll:TouchScript.Gestures.TransformGesture
 4d5b5802eff4311367701fff8fcd2d96 Assembly-CSharp.dll:TouchScript.Examples.Tap.Kick
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
@@ -154,7 +154,7 @@ f16835701e71dd5d6fb1fed4b7aff1d8 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 df86e3db529dd437289e51a2511e6c2d Assembly-CSharp.dll:Runner.Enemy4
 734fdb68d39f5cbfb5595cf852ac3516 Assembly-CSharp.dll:TouchScript.Behaviors.TouchScriptInputModule
 486cd95c82d8305219c352c06b776e1f Unity.TextMeshPro.dll:TMPro.TMP_SpriteAnimator
-04b4dded2e1729f08c4fd5f9991a16df Assembly-CSharp.dll:.PauseMenu
+8fa132c4b410c781b4e0661a4d390369 Assembly-CSharp.dll:Runner.PauseMenu
 98789d0b2f759d8fbb6084269a8a0066 Assembly-CSharp.dll:TouchScript.Gestures.PressGesture
 de30d5249688f00a589e241eea7ed7a9 Assembly-CSharp.dll:Runner.TapController
 eaf0bcdb10d442a4029d615f41d09957 Unity.TextMeshPro.dll:TMPro.TextContainer
